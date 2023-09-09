@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pushpenderpannu
-- 👀 I’m interested in Web design, Java and Image Editing
-- 🌱 I’m currently learning Affinity Photo
+- 👀 I’m interested in Web design,Python, Kafka and Java
+- 🌱 I’m currently working of Kafka
 - 📫 Reach me on info@pushpender.in
 
 <!---
