@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pushpenderpannu
 - 👀 I’m interested in Web design,Python, Kafka and Java
-- 🌱 I’m currently working of Kafka
+- 🌱 I’m currently working on Data analytics using Python and Kafka
 - 📫 Reach me on info@pushpender.in
 
 <!---
