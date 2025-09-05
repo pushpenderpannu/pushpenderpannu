@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pushpenderpannu
-- 👀 I’m interested in Web design,Python, Kafka and Java
-- 🌱 I’m currently working on Data analytics using Python and Kafka
-- 📫 Reach me on info@pushpender.in
+As a Manager at Accenture, I leverage extensive experience in cloud architecture (GCP, AWS, Azure), data engineering with Python and Kafka, and DevOps. My expertise includes building scalable data pipelines, implementing streaming solutions, and designing self-service DevOps portals. I am proficient in Java (Spring Boot), Angular, and various middleware technologies (IBM MQ, IIB). My GitHub showcases projects in these areas, highlighting my ability to drive infrastructure migrations and optimize development workflows.
 
 <!---
 pushpenderpannu/pushpenderpannu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
